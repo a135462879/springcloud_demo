@@ -1,0 +1,4 @@
+# Project exclude paths
+/springcloud-eureka-server/target/
+/springcloud-eureka-serviceconsume/target/
+/springcloud-eureka-servicesupport/target/
